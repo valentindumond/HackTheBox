@@ -4,8 +4,6 @@ Writeups de mes résolutions de challenges HackTheBox, dans le cadre de ma prép
 
 Progression
 Statistique	Valeur
-Challenges résolus	1
-Dernière mise à jour	08/10/2026
 Boîte à outils
 Profil HackTheBox
 
